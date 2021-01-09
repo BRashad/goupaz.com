@@ -137,5 +137,20 @@ export const data = {
         country: "Czechia",
       },
     },
+    {
+      id: uuidv4(),
+      name: "Rashad Bayram",
+      img: "https://avatars0.githubusercontent.com/u/10593476?v=4",
+      links: {
+        website: "https://www.rashadbayram.com",
+        linkedin: "https://www.linkedin.com/in/rashadbayram/",
+        github: "https://github.com/BRashad",
+      },
+      jobTitle: "Community Leader/Tech entrepreneur",
+      location: {
+        city: "Calgary",
+        country: "Canada",
+      },
+    },
   ],
 }
